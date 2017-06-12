@@ -35,3 +35,25 @@
       content:"横長";
      }
 }
+
+header{
+ padding: 10px;
+ text-align: center;
+ background-color:blue;
+}
+
+section{
+ padding: 10px;
+ background-color:green;
+}
+
+aside{
+ padding: 10px;
+ background-color:blue;
+}
+
+footer{
+ padding: 10px;
+ background-color: green;
+ text-align: center;
+}
