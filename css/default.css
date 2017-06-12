@@ -14,13 +14,17 @@
  
  @media screen and (min-width: 641px) and (max-width:980px){
    body{
-        background-color:green;
+        background-color:teal;
+       font-family: 'Poiret One', cursive;
+    　　.wf-notosansjapanese　 { font-family: "Noto Sans Japanese"; }
        }
   }
   
   @media screen and (min-width:981px){
    body{
-        background: blue;
+        background: deepskyblue;
+        font-family: 'Poiret One', cursive;
+    　　.wf-notosansjapanese　 { font-family: "Noto Sans Japanese"; }
        }
   }
 
